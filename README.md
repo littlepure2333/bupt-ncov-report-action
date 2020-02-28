@@ -27,6 +27,7 @@
 
 - `TG_BOT_TOKEN`: 你的 Bot 的 Token；
 - `TG_CHAT_ID`: 你和 Bot 的 Chat ID。
+> [how to get Chat ID](https://github.com/imtsuki/bupt-ncov-report-action/issues/3#issuecomment-592419621)
 
 ## 高级设置
 
