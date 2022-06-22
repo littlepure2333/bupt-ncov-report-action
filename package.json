@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@actions/core": "^1.2.2",
-    "got": "^10.5.2",
+    "got": "^11.8.5",
     "tough-cookie": "^3.0.1"
   },
   "devDependencies": {
